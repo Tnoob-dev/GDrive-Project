@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+pydrive2
+aiohttp
+zippyshare_downloader
+requests
