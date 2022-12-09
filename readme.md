@@ -15,6 +15,7 @@ Para activar la API de Drive debe hacer lo siguiente:
 Una vez hecho todo esto, abrir el config.json y en SD_id, poner el ID de su Shared Drive, en caso de que vaya a subir a ahi, y si rellena esa, rellenar tambien el 
 folder_id con el id de la carpeta a donde subira el bot en el Shared Drive, para cambiar entre el Shared Drive y el Personal Drive use el comando /drive
 
+Vaya a src/configs/bot_cfgs.py y agregue todas las credenciales para el uso del bot
 
 Lista de comandos:
 
@@ -28,6 +29,7 @@ Lista de comandos:
 ```
 
 Soporte de Sitios:
+- Google Drive
 - Links directos
 - Mediafire
 - ZippyShare
