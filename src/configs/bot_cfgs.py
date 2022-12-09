@@ -1,6 +1,8 @@
+# Nombre de la sesion, lo puede dejar asi o puede cambiarlo si desea
 SESSION = "GDriveTBot"
-HASH = "578d2817642f3aa3a283efaf49f4ef4e"
-ID = 12845924
-BOT_TK = "5713392947:AAHuGe6bNpTEe3glaWEQEtSOnE6dTO5m4cU"
-# 676679118
-OWNER = 957370219
+# API-HASH, API-ID y Bot-Token
+HASH = "" # (obtenlo de https://my.telegram.org/)
+ID =  # (obtenlo de https://my.telegram.org/)
+BOT_TK = "" # (obtenlo de https://t.me/BotFather/)
+# ID del usuario que usara el bot, puede obtenerlo de https://t.me/username_to_id_bot
+OWNER = 
